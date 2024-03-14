@@ -3,7 +3,7 @@
 * 학습 데이터는 데이콘에서 개최한 경진대회 데이터를 활용했습니다. (https://dacon.io/competitions/official/236216/overview/description)
 * train data는 전처리 과정 없이 단순히 데이콘에서 주어진 train 데이터를 학습한 것을 의미합니다.
 * train_preprocess_data_aug는 데이콘에서 주어진 train 데이터를 전처리하고 증강한 데이터를 의미합니다. 자세한 방법은 preprocess.ipynb 파일에서 확인할 수 있습니다.
-* 이번 경진대회에서 활용한 모델은 모두 QLoRA 기법을 활용했습니다.
+* 이번 경진대회에서 활용한 모델은 모두 QLoRA 기법으로 fine-tuning을 진행했습니다.
 * 성능은 데이콘 리더보드에서 계산된 Public 점수(코사인 유사도)입니다. 
 
 |파일명|성능|Epoch|학습 데이터|사전학습 LLM 모델|
