@@ -12,8 +12,8 @@
 |KoSOLAR|0.79|5|train_preprocess_data_aug|23위|
 |KoSOLAR|0.74|4|train_preprocess_data_aug||
 |Llama-2-koen-13b|0.70|6|train_preprocess_data_aug||
-|Llama_7b_original| |5|train data||
 |Llama_7b|0.70|5|train_preprocess_data_aug||
+|Llama_7b_train|0.65|5|train data||
 |KoAlpaca|0.63|3|train data||
 
 * 학습으로 활용한 사전학습 LLM 모델은 다음과 같습니다.
