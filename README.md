@@ -9,6 +9,7 @@
 |-------|-------------|-----|----------|----------------|
 |KoSOLAR|0.79|5|train_preprocess_data_aug|https://huggingface.co/kimwooglae/WebSquareAI-Instruct-KoSOLAR-10.7b-v0.5.34|
 |KoSOLAR|0.74|4|train_preprocess_data_aug|https://huggingface.co/kimwooglae/WebSquareAI-Instruct-KoSOLAR-10.7b-v0.5.34|
+|Llama-2-koen-13b|0.70|5|train_preprocess_data_aug|https://huggingface.co/beomi/llama-2-koen-13b|
 |Llama_7b_original| |5|train data|https://huggingface.co/beomi/llama-2-ko-7b|
 |Llama_7b|0.70|5|train_preprocess_data_aug|https://huggingface.co/beomi/llama-2-ko-7b|
 |KoAlpaca|0.63|3|train data|https://huggingface.co/beomi/KoAlpaca-Polyglot-5.8B|
